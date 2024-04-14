@@ -7,6 +7,7 @@ const HomeInfo = (props) => {
 
         <span className='font-semibold mx-2 text-gold'>ETEC</span>
         <br />
+        Emerging Technology and Entrepreneurship Complex
       </h1>
     );
 

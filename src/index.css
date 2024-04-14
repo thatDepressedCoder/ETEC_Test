@@ -189,12 +189,3 @@ body:has(.card[data-color="green"]:hover) {
 .text-yellow {
   color: #ffd900; /* Gold color */
 }
-.navbar-text {
-  margin-left: -220px;
-  margin-top: 20px;
-}
-
-.navbar-link {
-  display: flex;
-  align-items: center;
-}
