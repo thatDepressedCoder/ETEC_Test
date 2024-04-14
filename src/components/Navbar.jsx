@@ -9,11 +9,6 @@ const Navbar = () => {
         Emerging Technology and Entrepreneurship Complex
         </h1>
       </NavLink>
-      <nav className='flex text-lg font-medium '>
-        <NavLink to='/about' className={({ isActive }) => isActive ? "text-blue-600" : "text-white"}>
-          About
-        </NavLink>
-      </nav>
     </header>
   );
 };
