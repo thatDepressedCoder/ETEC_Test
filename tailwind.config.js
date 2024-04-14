@@ -14,8 +14,8 @@ export default {
           DEFAULT: "#000",
           500: "#1D2235"
         },
-        blue: {
-          500: "#2b77e7"
+        purple: {
+          500: "#9b30ff"
         }
       },
       fontFamily: {

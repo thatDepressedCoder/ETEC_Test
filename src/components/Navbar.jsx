@@ -6,7 +6,7 @@ const Navbar = () => {
     <header className='header'>
       <NavLink to='/'>
         <h1 className='text-xl font-bold blue-gradient_text drop-shadow'>
-          Hakan Tugrul Otal
+        Emerging Technology and Entrepreneurship Complex
         </h1>
       </NavLink>
       <nav className='flex text-lg font-medium '>

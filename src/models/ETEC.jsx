@@ -18,7 +18,7 @@ export function ETEC(props) {
         const interval = setInterval(() => {
             // Update rotationY every second (millisecond)
             setRotationY(prevRotationY => prevRotationY + 0.01);
-        }, 10);
+        }, 15);
 
         return () => clearInterval(interval);
     }, []); // Run effect only once on component mount
